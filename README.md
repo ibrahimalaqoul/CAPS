@@ -9,7 +9,9 @@ for today's task we had to create three events
 
 # UML :
 ![](class11.png)
-
+# links
+* [actions link](https://github.com/ibrahimalaqoul/CAPS/actions)
+* [PR link](https://github.com/ibrahimalaqoul/CAPS/pull/1)
 
 
 
