@@ -1,0 +1,25 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "event driven repo.",
+  "main": "caps.js",
+  "scripts": {
+    "test": "jest --coverage --verbose",
+    "start": "node caps.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimalaqoul/CAPS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrahimalaqoul/CAPS/issues"
+  },
+  "homepage": "https://github.com/ibrahimalaqoul/CAPS#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0",
+    "jest": "^27.5.1"
+  }
+}
